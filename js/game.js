@@ -4,7 +4,7 @@
 //
 // Created by: Kenny Le
 // Created on: Apr 2022
-// This file contains the JS functions for index.html
+// This is the Phaser3 configuration file
 
 //* Game scene */
 const config = {
