@@ -6,9 +6,9 @@
 // Created on: Apr 2022
 // This is the Splash Scene
 
-  /**
-   * This class is the Splash Scene.
-   */
+/**
+ * This class is the Splash Scene.
+ */
 class SplashScene extends Phaser.Scene {
   /**
    * This method is the construtor.
