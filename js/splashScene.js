@@ -19,9 +19,11 @@ class SplashScene extends Phaser.Scene {
     console.log("Splash Scene")
   }
 
-  create(data) {}
+  create(data) {
+  }
 
-  update(time, delta) {}
+  update(time, delta) {
+  }
 }
 
 export default SplashScene
