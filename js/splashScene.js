@@ -1,15 +1,15 @@
 /* global Phaser */
 
-// Copyright (c) 2022 Kenny Le All rights reserved
+// Copyright (c) 2020 Mr Coxall All rights reserved
 //
-// Created by: Kenny Le
-// Created on: Apr 2022
+// Created by: Mr Coxall
+// Created on: Sep 2020
 // This is the Splash Scene
 
 /**
  * This class is the Splash Scene.
  */
-class SplashScene extends Phaser.Scene {
+ class SplashScene extends Phaser.Scene {
   /**
    * This method is the construtor.
    */
