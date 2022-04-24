@@ -4,7 +4,7 @@
   "description": "Kenny Le's Space Aliens App",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "standalone", 
+  "display": "standalone",
   "icons": [
     {
       "src": "./android-chrome-192x192.png",
